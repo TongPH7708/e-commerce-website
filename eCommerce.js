@@ -10,4 +10,8 @@ addToCart.addEventListener("click", function(){
     cart.push('product')
 });
 
+let cartList = document.getElementById ("cartList")
 
+cart.forEach(function (item){
+    
+})
